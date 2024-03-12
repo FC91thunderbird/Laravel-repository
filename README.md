@@ -2,34 +2,35 @@
 
 
 
-Git init
-git add .
-git commit -m "Your commit message here"
+<p>Git init </p>
+<p>git add . </p> 
+<p> git commit -m "Your commit message here" </p>
 
-git remote add origin <repository_url>
-
+<p>git remote add origin <repository_url> </p>
+<p></p>
+    
 <<< create new branch >>>
-git checkout -b <branch-name>
+<p>git checkout -b <branch-name> </p>
 
-git push -u origin <feature/test-branch>
+<p>git push -u origin <feature/test-branch> </p>
 
 ...
-git checkout master
-git pull master
-git marge feature/test-branch
-git merge feature/test-branch
+<p> git checkout master</p>
+<p>git pull master</p>
+<p>git marge feature/test-branch</p>
+<p>git merge feature/test-branch </p>
 
 
 
-// set global veribal
-git config --global user.name "userName"
-git config --global user.email "usernam@gmail.com"
-git config --global user.password "userPassword"
-git config --global credential.helper store
-git config --list --show-origin
+<p>// set global veribal </p>
+<p>git config --global user.name "userName" </p>
+<p>git config --global user.email "usernam@gmail.com"</p>
+<p>git config --global user.password "userPassword"</p>
+<p>git config --global credential.helper store</p>
+<p>git config --list --show-origin</p>
 
 /// for exit :wq
-
+<p> </p>
 
 /// for edit config
-git config --global --edit
+<p>git config --global --edit</p>
